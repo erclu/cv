@@ -1,5 +1,5 @@
 # Personal info
-description: Studente LT in Informatica
+description: Programmatore presso SyncLab
 website: https://erclu.github.io/cv
 email: erclu.dev@gmail.com
 address: Padova
@@ -7,10 +7,9 @@ address: Padova
 
 # Social links
 social:
-  # facebook:
   github: erclu
   linkedin: erclu
-  # twitter: erc_lu
+  twitter: erclu_dev
   # youtube:
 
 # About Section
@@ -24,27 +23,25 @@ content: |
 
 toolbox_title: Ho familiarità con
 simple_toolbox:
-  - <mark>Python</mark>
-  - JupyterLab
-  - Flask
-  - PuLP
-  # - pytest
-  - <mark>Java 8, 11</mark>
-  # - JUnit 5
-  - <mark>TypeScript</mark>
-  - JavaScript
-  - <mark>Google APIs</mark>
-  - HTML, XML
-  - CSS
-  - PostCSS
-  - Sass
-  # - Jekyll
+  - <mark>Ansible</mark>
+  - Docker
+  - Kubernetes
+  - Apache OpenWhisk
+  - Maven
+  - Gradle
+  - Jenkins
+  - GitHub Actions
+  - <mark>Java</mark>
+  - Python
+  - TypeScript
+  - C#
+  - Linguaggi di scripting (Bash, PowerShell)
   - SQL
-  - C++
-  - Arduino
-  - Unity (C#)
-  - PHP
-  # - <mark>Git</mark>
-  - <mark>PowerShell</mark>
-  - bash
-  # - LaTeX, pandoc
+  - "Spring Boot e Spring Framework: MVC, <mark>WebFlux</mark> e Data (JPA, JDBC, R2DBC)"
+  - Angular 9, 10
+  - Android
+  - Unity3D (sviluppo di applicazioni in WebGL e per HTC Vive e Oculus Quest)
+  - StopLight Studio, Locust, Postman, JMeter
+  - Visual Studio Code, vim
+  - Microsoft Teams, Slack, Discord, Trello, GitHub (Boards, Discussions, Teams), GitLab
+  - RHEL e Fedora, Debian, Alpine
